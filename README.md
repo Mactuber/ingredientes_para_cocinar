@@ -3,7 +3,7 @@
 
 
 
-# Descripción del reto realizado por MASTERMIND
+# Descripción del reto realizado para finalizar el curso de MASTERMIND
 
 Primeros pasos con un asistente de programación con IA
 
